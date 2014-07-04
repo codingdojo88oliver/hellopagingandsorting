@@ -1,5 +1,3 @@
 application\controllers\UsersController.class
-application\models\Post.class
-application\models\Comment.class
 application\models\User.class
 application\App.class
